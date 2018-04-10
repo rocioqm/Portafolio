@@ -3,3 +3,9 @@
   margin-bottom: 30px;
   margin-left: 10%;
 }
+
+.lista {
+  margin-right: 10rem;
+  display: inline-block;
+  text-align: center;
+}
