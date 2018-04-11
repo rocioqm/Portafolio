@@ -3,3 +3,22 @@
   margin-bottom: 30px;
   margin-left: 10%;
 }
+
+.header {
+  color: rgb(255, 61, 126);
+}
+
+.header1{
+  color: rgb(228, 73, 255);
+}
+
+#sidebar-wrapper {
+  background:  rgb(228, 73,255);
+  font-weight: 500; 
+}
+
+.btn-primary{
+  background-color: white;
+  color: #ff3d7e;
+}
+
