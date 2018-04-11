@@ -25,3 +25,8 @@
 .header2 {
   color:#ff3d7e;
 }
+
+.btn-dark {
+  background-color: #e449ff;
+  color: white;
+}
